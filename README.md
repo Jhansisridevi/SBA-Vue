@@ -34,6 +34,7 @@ Follow these steps to set up and run InsightPal locally:
 4. Run the development server: `npm run serve`
 5. Open the app in your browser: [http://localhost:8080](http://localhost:8080)
 
+Link to the site - https://main--storied-piroshki-7dc9e2.netlify.app/ 
 
 Thank you for using InsightPal! Happy surveying! 🚀
 
